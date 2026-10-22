@@ -66,7 +66,6 @@ export default {
                             <div class="type-title-sm">Length</div>
                             <p>{{ level.lengthTime || 'Empty' }}</p>
                         </li>
-
                     </ul>
                     <h2>Records</h2>
                     <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
@@ -82,6 +81,26 @@ export default {
                             </td>
                             <td class="mobile">
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
+                            </td>
+                            <td class="hz">
+                                <p>{{ record.hz }}Hz</p>
+                            </td>
+                        </tr>
+                    </table>
+                    <h2>Practice Records</h2>
+                    <table class="records">
+                        <tr v-for="record in (level.practiceRecords || []).slice().sort((a, b) => b.attempts - a.attempts)" class="record">
+                            <td class="percent">
+                                <p style="white-space: nowrap;">{{ record.attempts }} Atts</p>
+                            </td>
+                            <td class="user">
+                                <a :href="record.link" target="_blank" class="type-label-lg">{{ record.user }}</a>
+                            </td>
+                            <td class="mobile">
+                                <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
+                            </td>
+                            <td class="percent">
+                                <p>{{ record.percent }}%</p>
                             </td>
                             <td class="hz">
                                 <p>{{ record.hz }}Hz</p>
@@ -166,11 +185,9 @@ export default {
         },
     },
     async mounted() {
-        // Hide loading spinner
         this.list = await fetchList();
         this.editors = await fetchEditors();
 
-        // Error handling
         if (!this.list) {
             this.errors = [
                 "Failed to load list. Retry in a few minutes or notify list staff.",

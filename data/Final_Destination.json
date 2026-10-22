@@ -86,6 +86,7 @@
             "user": "Noir",
             "link": "#",
             "attempts": 240,
+            "percent": 100,
             "hz": 240
         }
     ]
