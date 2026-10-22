@@ -1,0 +1,29 @@
+{
+    "id": 10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": ["Asonicmen","Evasium","Crack","Riot","GgB0y","Michigun","Etzer","Giron","Havok","weoweoteo","Vermillion"],
+    "verifier": "Riot",
+    "verification": "https://youtu.be/twTw4fjT0ik?si=5UBqmZGehjPZ_qS9",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "globalPosition": "#849",
+    "gddlTier": "23.98",
+    "difficulty": "Extreme Demon",
+    "lengthTime": "1m 52s",
+    "length": 112,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "93-100",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 7,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": 146399247,
+    "name": "rauchkammer",
+    "author": "Devilmine",
+    "creators": [],
+    "verifier": "Devilmine",
+    "verification": "https://youtu.be/2SVOAQBiOtg?si=79iJjFNz_EXPBAqv",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "globalPosition": "#1602",
+    "gddlTier": "19.88",
+    "difficulty": "Extreme Demon",
+    "lengthTime": "41s",
+    "length": 41,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "31-48",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 38,
+            "hz": 240
+        }
+    ]
+}

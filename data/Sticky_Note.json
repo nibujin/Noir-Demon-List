@@ -1,0 +1,35 @@
+{
+    "id": 141614397,
+    "name": "Sticky Note",
+    "author": "universedevon",
+    "creators": [],
+    "verifier": "universedevon",
+    "verification": "https://youtu.be/fxa12WEw1gM?si=d9_-n1ip2ZK-uaW_",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "globalPosition": "",
+    "gddlTier": "19.12",
+    "difficulty": "Insane Demon",
+    "lengthTime": "1m 38s",
+    "length": 98,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "https://youtu.be/gM0T1JcIhJE?si=6ZiVuf_oAWSSJlVV",
+            "percent": "85-100",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "76-87",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 13,
+            "hz": 240
+        }
+    ]
+}

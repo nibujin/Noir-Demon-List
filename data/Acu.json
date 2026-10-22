@@ -1,0 +1,35 @@
+{
+    "id": 61079355,
+    "name": "Acu",
+    "author": "neigefeu",
+    "creators": [],
+    "verifier": "neigefeu",
+    "verification": "https://youtu.be/z6l74Mkoxm8?si=qJ6LQs6UkRVZ5LGs",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "globalPosition": "#1598",
+    "gddlTier": "20.25",
+    "difficulty": "Extreme Demon",
+    "lengthTime": "1m 17s",
+    "length": 77,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "84-100",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "30-86",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 30,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": 107341811,
+    "name": "Prismatic",
+    "author": "CatGeo",
+    "creators": [],
+    "verifier": "CatGeo",
+    "verification": "https://youtu.be/rw3afgiDQjw?si=8MsWM0zCz_g7ZFm7",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "globalPosition": "#1567",
+    "gddlTier": "20.28",
+    "difficulty": "Extreme Demon",
+    "lengthTime": "2m 13s",
+    "length": 133,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 14,
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "82-100",
+            "hz": 240
+        }
+    ]
+}

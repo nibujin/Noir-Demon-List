@@ -1,0 +1,23 @@
+{
+    "id": 68848817,
+    "name": "moment",
+    "author": "Lexycat",
+    "creators": ["icedcave","Lexycat","Stormfly"],
+    "verifier": "Johnfree",
+    "verification": "https://youtu.be/HBQhYLRgdvE?si=573q1XxKYAppS5RF",
+    "percentToQualify": "0",
+    "password": "68848817",
+    "globalPosition": "#841",
+    "gddlTier": "24.03",
+    "difficulty": "Extreme Demon",
+    "lengthTime": "1m 1s",
+    "length": 61,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 8,
+            "hz": 240
+        }
+    ]
+}

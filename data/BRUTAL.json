@@ -1,0 +1,35 @@
+{
+    "id": 138356396,
+    "name": "BRUTAL",
+    "author": "TShack",
+    "creators": ["TShack","airless"],
+    "verifier": "airless",
+    "verification": "https://youtu.be/y7aMuCOwjiI?si=VkKuDbnGTe1iNM42",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "globalPosition": "#1580",
+    "gddlTier": "21.09",
+    "difficulty": "Extreme Demon",
+    "lengthTime": "38s",
+    "length": 38,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "21-40",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "10-27",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 8,
+            "hz": 240
+        }
+    ]
+}

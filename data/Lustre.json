@@ -1,0 +1,35 @@
+{
+    "id": 66328428,
+    "name": "Lustre",
+    "author": "OliSW",
+    "creators": [],
+    "verifier": "OliSW",
+    "verification": "https://youtu.be/2tcgZ37kEHo?si=KMKjxcOl0lHWOiY0",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "globalPosition": "",
+    "gddlTier": "16.99",
+    "difficulty": "Insane Demon",
+    "lengthTime": "1m 59s",
+    "length": 119,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "72-100",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "66-80",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 33,
+            "hz": 240
+        }
+    ]
+}

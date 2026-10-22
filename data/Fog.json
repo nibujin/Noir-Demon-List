@@ -1,0 +1,23 @@
+{
+    "id": 90853661,
+    "name": "Fog",
+    "author": "notes",
+    "creators": ["pixll1","notes"],
+    "verifier": "Kaza",
+    "verification": "https://youtu.be/Kt_fxnOYeco?si=OPZArktIvAUYoIDV",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "globalPosition": "#287",
+    "gddlTier": "31.90",
+    "difficulty": "Extreme Demon",
+    "lengthTime": "1m 5s",
+    "length": 65,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 4,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": 56568010,
+    "name": "Magma Bound",
+    "author": "ScorchVx",
+    "creators": [],
+    "verifier": "ScorchVx",
+    "verification": "https://youtu.be/B3C6XVjpSJ4?si=nzUE-jhM6qWN7Xky",
+    "percentToQualify": "0",
+    "password": "951753",
+    "globalPosition": "",
+    "gddlTier": "15.77",
+    "difficulty": "Insane Demon",
+    "lengthTime": "1m 37s",
+    "length": 97,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "50-100",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 58,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": 58825144,
+    "name": "xo",
+    "author": "KrmaL",
+    "creators": [],
+    "verifier": "KrmaL",
+    "verification": "https://youtu.be/vcAdWah55Z4?si=lzbP3omG7NdUtXv0",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "globalPosition": "#409",
+    "gddlTier": "29.61",
+    "difficulty": "Extreme Demon",
+    "lengthTime": "2m 36s",
+    "length": 156,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 2,
+            "hz": 240
+        }
+    ]
+}

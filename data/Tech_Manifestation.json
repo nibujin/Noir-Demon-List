@@ -1,0 +1,23 @@
+{
+    "id": 55985772,
+    "name": "Tech Manifestation",
+    "author": "PleoSlim",
+    "creators": ["MakFeed","PleoSlim"],
+    "verifier": "Dolphy",
+    "verification": "https://youtu.be/gwMgZt_jRx4?si=EYFhUigQBiITHHh9",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "globalPosition": "#1272",
+    "gddlTier": "21.21",
+    "difficulty": "Extreme Demon",
+    "lengthTime": "1m 8s",
+    "length": 68,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 7,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "id": 66092652,
+    "name": "Final;Destination",
+    "author": "IcEDCave",
+    "creators": [],
+    "verifier": "telepracity",
+    "verification": "https://youtu.be/q3wiYEyhQQY?si=xMqHMiDfdEE6w9Oi",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "globalPosition": "UDL #436",
+    "gddlTier": "",
+    "difficulty": "",
+    "lengthTime": "3m 38s",
+    "length": 218,
+    "approxDifficulty":"Extreme Demon",
+    "records": [
+        {
+            "user": "Noir",
+            "link": "https://youtu.be/QJ7_mKEy3Pw?si=1FQnADdD7o7cRRDu",
+            "percent": "91-95",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "https://youtu.be/QJ7_mKEy3Pw?si=1FQnADdD7o7cRRDu",
+            "percent": "39-42",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "https://youtu.be/TuC1hBt190g?si=S2Q_0lVWiiyYs93L",
+            "percent": "10-20",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "https://youtu.be/TuC1hBt190g?si=S2Q_0lVWiiyYs93L",
+            "percent": "20-25",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "https://youtu.be/TuC1hBt190g?si=S2Q_0lVWiiyYs93L",
+            "percent": "23-29",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "https://youtu.be/TuC1hBt190g?si=S2Q_0lVWiiyYs93L",
+            "percent": "29-33",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "https://youtu.be/TuC1hBt190g?si=S2Q_0lVWiiyYs93L",
+            "percent": "33-40",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "https://youtu.be/TuC1hBt190g?si=S2Q_0lVWiiyYs93L",
+            "percent": "47-66",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "https://youtu.be/TuC1hBt190g?si=S2Q_0lVWiiyYs93L",
+            "percent": "65-86",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "https://youtu.be/TuC1hBt190g?si=S2Q_0lVWiiyYs93L",
+            "percent": "70-91",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 7,
+            "hz": 240
+        }
+    ],
+    "practiceRecords": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "attempts": 240,
+            "hz": 240
+        }
+    ]
+}

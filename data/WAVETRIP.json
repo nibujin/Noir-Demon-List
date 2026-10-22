@@ -1,0 +1,29 @@
+{
+    "id": 118697760,
+    "name": "WAVETRIP",
+    "author": "BombCraft2010",
+    "creators": [],
+    "verifier": "MiniShoey",
+    "verification": "https://youtu.be/TKQtbj8dFi4?si=E16yvNrzUXUJtyJC",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "globalPosition": "#1554",
+    "gddlTier": "20.16",
+    "difficulty": "Extreme Demon",
+    "lengthTime": "4m 29s",
+    "length": 269,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "81-100",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 12,
+            "hz": 240
+        }
+    ]
+}

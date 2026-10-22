@@ -1,0 +1,23 @@
+{
+    "id": 120012581,
+    "name": "Defeated Circles",
+    "author": "GXQ",
+    "creators": ["Slijee","GDFluxit","SlendStone","GXQ","notcyanide","lupodzn","pootys1337","muriday","silence"],
+    "verifier": "Zoink",
+    "verification": "https://youtu.be/nU5AQPzd2YA?si=LaTLggrb9hsQs8ed",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "globalPosition": "#24",
+    "gddlTier": "38.00",
+    "difficulty": "Extreme Demon",
+    "lengthTime": "59s",
+    "length": 59,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 3,
+            "hz": 240
+        }
+    ]
+}

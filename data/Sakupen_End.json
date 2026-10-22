@@ -1,0 +1,53 @@
+{
+    "id": 100856004,
+    "name": "Sakupen End",
+    "author": "Nick24",
+    "creators": [],
+    "verifier": "",
+    "verification": "https://youtu.be/KBzmf9rTiAg?si=0ZXFSZ1ZsMtKjzJg",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "globalPosition": "ILL #725",
+    "gddlTier": "",
+    "difficulty": "Impossible",
+    "lengthTime": "5m 52s",
+    "length": 352,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 1,
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "https://youtu.be/XUCLRCWEurU?si=yedxDEWcIyYKyJy1",
+            "percent": "5-10",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "https://youtu.be/XUCLRCWEurU?si=yedxDEWcIyYKyJy1",
+            "percent": "11-13",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "https://youtu.be/XUCLRCWEurU?si=yedxDEWcIyYKyJy1",
+            "percent": "15-17",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "https://youtu.be/XUCLRCWEurU?si=yedxDEWcIyYKyJy1",
+            "percent": "19-21",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "https://youtu.be/XUCLRCWEurU?si=yedxDEWcIyYKyJy1",
+            "percent": "31-36",
+            "hz": 240
+        }
+    ]
+}

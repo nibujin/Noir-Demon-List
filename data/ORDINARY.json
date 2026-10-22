@@ -1,0 +1,29 @@
+{
+    "id": 105593215,
+    "name": "ORDINARY",
+    "author": "vit12",
+    "creators": ["vit12", "GustavoV3", "ItsMeGeoGD"],
+    "verifier": "wPopoff",
+    "verification": "https://youtu.be/4QiHP3jpGnk?si=1KXehESbgh87p9dQ",
+    "percentToQualify": 0,
+    "password": "Free To Copy",
+    "globalPosition": "#96",
+    "gddlTier": "36.00",
+    "difficulty": "Extreme Demon",
+    "lengthTime": "1m 17s",
+    "length": 77,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "23-33",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 4,
+            "hz": 240
+        }
+    ]
+}

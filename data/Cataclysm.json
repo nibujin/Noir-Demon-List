@@ -1,0 +1,29 @@
+{
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "GgB0y",
+    "creators": [],
+    "verifier": "Riot",
+    "verification": "https://youtu.be/dYt5fp5VGVs?si=NI-WUujgy-uA2XnN",
+    "percentToQualify": "0",
+    "password": "666777",
+    "globalPosition": "#1502",
+    "gddlTier": "20.92",
+    "difficulty": "Extreme Demon",
+    "lengthTime": "1m 26s",
+    "length": 86,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 12,
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "68-100",
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "role": "owner",
+        "name": "List Owner",
+        "link": "https://www.youtube.com/@noirdash"
+    },
+    {
+        "role": "admin",
+        "name": "List Admin",
+        "link": "https://www.youtube.com/@noirdash"
+    },
+    {
+        "role": "helper",
+        "name": "List Helper",
+        "link": "#"
+    },
+    {
+        "role": "trial",
+        "name": "Trial List Helper",
+        "link": "#"
+    },
+    {
+        "role": "dev",
+        "name": "List Coder",
+        "link": "https://www.youtube.com/@noirdash"
+    }
+]

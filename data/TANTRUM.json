@@ -1,0 +1,23 @@
+{
+    "id": 61910810,
+    "name": "TANTRUM",
+    "author": "DanZmeN",
+    "creators": ["Yendis","ItzMezzo","DanZmeN","BitZel","SpooFy","ViralDL","flash","BlueRimz"],
+    "verifier": "Golden",
+    "verification": "https://youtu.be/4iTMCQMGz-U?si=uXVwg1a6lr2cHrr7",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "globalPosition": "#1551",
+    "gddlTier": "20.73",
+    "difficulty": "Extreme Demon",
+    "lengthTime": "1m 32s",
+    "length": 92,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 7,
+            "hz": 240
+        }
+    ]
+}

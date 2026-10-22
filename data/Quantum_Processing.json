@@ -1,0 +1,29 @@
+{
+    "id": 38235367,
+    "name": "Quantum Processing",
+    "author": "Riot",
+    "creators": ["Riot","Zobros","Sil3nce","RobTop"],
+    "verifier": "rampage",
+    "verification": "https://youtu.be/lt8GNUsFMQo?si=r-mtT-9qvTbcYVlH",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "globalPosition": "#564",
+    "gddlTier": "27.04",
+    "difficulty": "Extreme Demon",
+    "lengthTime": "1m 40s",
+    "length": 100,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "85-100",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 9,
+            "hz": 240
+        }
+    ]
+}

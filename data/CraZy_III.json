@@ -1,0 +1,35 @@
+{
+    "id": 66328428,
+    "name": "CraZy III",
+    "author": "DavJT",
+    "creators": [],
+    "verifier": "Nexus",
+    "verification": "https://youtu.be/1ynspvn8KSs?si=dU93Ufhsj8cxyF84",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "globalPosition": "",
+    "gddlTier": "19.09",
+    "difficulty": "Insane Demon",
+    "lengthTime": "2m 29s",
+    "length": 149,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "78-100",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "44-57",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 17,
+            "hz": 240
+        }
+    ]
+}
