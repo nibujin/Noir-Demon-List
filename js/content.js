@@ -1,6 +1,6 @@
 import { round, score } from './score.js';
 
-const dir = '/data';
+const dir = './data';
 
 function parsePercent(val) {
     if (typeof val === 'number') {
@@ -19,19 +19,26 @@ function parsePercent(val) {
 }
 
 export async function fetchList() {
-    const listResult = await fetch(`${dir}/_list.json`);
     try {
+        const listResult = await fetch(`${dir}/_list.json`);
+        if (!listResult.ok) {
+            console.error(`Failed to load list. Status: ${listResult.status}`);
+            return null;
+        }
         const list = await listResult.json();
         return await Promise.all(
             list.map(async (path, rank) => {
-                const levelResult = await fetch(`${dir}/${path}.json`);
                 try {
+                    const levelResult = await fetch(`${dir}/${path}.json`);
+                    if (!levelResult.ok) {
+                        return [null, path];
+                    }
                     const level = await levelResult.json();
                     return [
                         {
                             ...level,
                             path,
-                            records: level.records.sort((a, b) => {
+                            records: (level.records || []).sort((a, b) => {
                                 const parsedA = parsePercent(a.percent);
                                 const parsedB = parsePercent(b.percent);
                                 if (parsedB.end !== parsedA.end) {
@@ -57,6 +64,9 @@ export async function fetchList() {
 export async function fetchEditors() {
     try {
         const editorsResults = await fetch(`${dir}/_editors.json`);
+        if (!editorsResults.ok) {
+            return null;
+        }
         const editors = await editorsResults.json();
         return editors;
     } catch {
@@ -75,7 +85,7 @@ export async function fetchLeaderboard() {
             return;
         }
 
-        level.records.forEach((record) => {
+        (level.records || []).forEach((record) => {
             const user = Object.keys(scoreMap).find(
                 (u) => u.toLowerCase() === record.user.toLowerCase(),
             ) || record.user;
