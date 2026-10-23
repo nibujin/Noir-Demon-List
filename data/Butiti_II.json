@@ -1,0 +1,32 @@
+{
+    "id": 37259527,
+    "name": "BuTiTi II",
+    "author": "JonathanGD",
+    "creators": [],
+    "verifier": "mbed",
+    "verification": "https://youtu.be/aw9xw7WiLVo?si=zdZ825jqDQjanZlT",
+    "percentToQualify": "0",
+    "password": "",
+    "globalPosition": "",
+    "gddlTier": "17.79",
+    "difficulty": "Insane Demon",
+    "lengthTime": "3m 59s",
+    "length": 239,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 31,
+            "hz": 240
+        }
+    ],
+    "practiceRecords": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "attempts": 49,
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

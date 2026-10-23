@@ -1,0 +1,32 @@
+{
+    "id": 27655282,
+    "name": "Kuiper",
+    "author": "GD Quasar",
+    "creators": [],
+    "verifier": "Vernosis",
+    "verification": "https://youtu.be/b-ezG6Z4avE?si=f4KW_vu8VDZUiaEl",
+    "percentToQualify": "0",
+    "password": "",
+    "globalPosition": "",
+    "gddlTier": "16.70",
+    "difficulty": "Insane Demon",
+    "lengthTime": "1m 27s",
+    "length": 87,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 18,
+            "hz": 240
+        }
+    ],
+    "practiceRecords": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "attempts": 63,
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

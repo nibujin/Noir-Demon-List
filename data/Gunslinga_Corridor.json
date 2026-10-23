@@ -1,0 +1,32 @@
+{
+    "id": 65731116,
+    "name": "Gunslinga Corridor",
+    "author": "zEvilPrisma",
+    "creators": [],
+    "verifier": "vcsouly",
+    "verification": "https://youtu.be/rrCnjdytyHs?si=5_ahgw67yQ97rPc0",
+    "percentToQualify": "0",
+    "password": "",
+    "globalPosition": "IDL #191",
+    "gddlTier": "19.79",
+    "difficulty": "Insane Demon",
+    "lengthTime": "1m 24s",
+    "length": 84,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 9,
+            "hz": 240
+        }
+    ],
+    "practiceRecords": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "attempts": 89,
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

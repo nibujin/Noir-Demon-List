@@ -1,0 +1,32 @@
+{
+    "id": 8723596,
+    "name": "Sine Wavs",
+    "author": "Dorami",
+    "creators": [],
+    "verifier": "Dorami",
+    "verification": "https://youtu.be/RMHstFQi2qs?si=CUBG27XKIB5pmlo2",
+    "percentToQualify": "0",
+    "password": "",
+    "globalPosition": "",
+    "gddlTier": "16.03",
+    "difficulty": "Insane Demon",
+    "lengthTime": "1m 2s",
+    "length": 62,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 29,
+            "hz": 240
+        }
+    ],
+    "practiceRecords": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "attempts": 73,
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

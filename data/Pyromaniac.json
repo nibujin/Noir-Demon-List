@@ -1,0 +1,32 @@
+{
+    "id": 10533089,
+    "name": "Pyromaniac",
+    "author": "Glittershroom",
+    "creators": ["Glittershroom","Girondavid","Nocturne"],
+    "verifier": "SirGuillester",
+    "verification": "https://youtu.be/6PVEh26j9ZE?si=cyQsZ5H_LKnaRzxi",
+    "percentToQualify": "0",
+    "password": "",
+    "globalPosition": "",
+    "gddlTier": "15.90",
+    "difficulty": "Insane Demon",
+    "lengthTime": "57s",
+    "length": 57,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 31,
+            "hz": 240
+        }
+    ],
+    "practiceRecords": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "attempts": 68,
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
