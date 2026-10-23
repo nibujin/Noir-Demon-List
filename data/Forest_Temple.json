@@ -17,18 +17,24 @@
             "user": "brumbal",
             "link": "#",
             "percent": 40,
-            "hz": 240
+            "hz": 360
         },
         {
             "user": "brumbal",
             "link": "#",
             "percent": "60-100",
-            "hz": 240
+            "hz": 360
         },
         {
             "user": "Noir",
             "link": "#",
             "percent": 17,
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "58-100",
             "hz": 240
         }
     ],
@@ -38,7 +44,7 @@
             "link": "#",
             "attempts": 25,
             "percent": 100,
-            "hz": 240
+            "hz": 360
         },
         {
             "user": "Noir",
