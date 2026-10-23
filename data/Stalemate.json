@@ -1,0 +1,32 @@
+{
+    "id": 4545425,
+    "name": "Stalemate",
+    "author": "Nox",
+    "creators": [],
+    "verifier": "Nox",
+    "verification": "https://youtu.be/V_Vp0OyDa94?si=cSzEZb0I9pezO14I",
+    "percentToQualify": "0",
+    "password": "",
+    "globalPosition": "",
+    "gddlTier": "15.20",
+    "difficulty": "Insane Demon",
+    "lengthTime": "1m 33s",
+    "length": 93,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 12,
+            "hz": 240
+        }
+    ],
+    "practiceRecords": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "attempts": 57,
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

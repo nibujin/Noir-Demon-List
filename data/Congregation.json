@@ -1,0 +1,44 @@
+{
+    "id": 68668045,
+    "name": "Congregation",
+    "author": "Presta",
+    "creators": [],
+    "verifier": "Floofle",
+    "verification": "https://youtu.be/KVlcdvGYcj0?si=y67shUTO7YoG6YHN",
+    "percentToQualify": 0,
+    "password": "Free To Copy",
+    "globalPosition": "#276",
+    "gddlTier": "31.54",
+    "difficulty": "Extreme Demon",
+    "lengthTime": "3m 3s",
+    "length": 183,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "42-47",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "84-92",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 5,
+            "hz": 240
+        }
+    ],
+    "practiceRecords": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "attempts": 380,
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

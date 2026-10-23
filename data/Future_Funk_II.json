@@ -1,0 +1,32 @@
+{
+    "id": 59626284,
+    "name": "Future Funk II",
+    "author": "JonathanGD",
+    "creators": [],
+    "verifier": "mbed",
+    "verification": "https://youtu.be/r1I6cEwi4Us?si=y4PK_IZ0mQIiB7PN",
+    "percentToQualify": "0",
+    "password": "787153",
+    "globalPosition": "",
+    "gddlTier": "17.85",
+    "difficulty": "Insane Demon",
+    "lengthTime": "3m 38s",
+    "length": 218,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 25,
+            "hz": 240
+        }
+    ],
+    "practiceRecords": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "attempts": 77,
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

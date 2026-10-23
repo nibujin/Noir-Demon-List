@@ -1,0 +1,38 @@
+{
+    "id": 40945673,
+    "name": "CraZY",
+    "author": "DavJT",
+    "creators": [],
+    "verifier": "DavJT",
+    "verification": "https://youtu.be/g_MP6BENHEs?si=F_ZepvRuzJyU45IO",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "globalPosition": "",
+    "gddlTier": "12.86",
+    "difficulty": "Hard Demon",
+    "lengthTime": "1m 19s",
+    "length": 79,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 92,
+            "hz": 120
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "30-100",
+            "hz": 120
+        }
+    ],
+    "practiceRecords": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "attempts": 4,
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

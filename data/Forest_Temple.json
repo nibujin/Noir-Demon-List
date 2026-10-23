@@ -28,13 +28,25 @@
         {
             "user": "Noir",
             "link": "#",
-            "percent": 17,
+            "percent": 51,
             "hz": 240
         },
         {
             "user": "Noir",
             "link": "#",
             "percent": "58-100",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "41-74",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "20-59",
             "hz": 240
         }
     ],

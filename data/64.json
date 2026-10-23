@@ -1,0 +1,38 @@
+{
+    "id": 65731116,
+    "name": "64",
+    "author": "Sillow",
+    "creators": [],
+    "verifier": "Sillow",
+    "verification": "https://youtu.be/X-PQT8o9-lU?si=lc3o_GRs3GdN1ron",
+    "percentToQualify": "0",
+    "password": "",
+    "globalPosition": "",
+    "gddlTier": "14.46",
+    "difficulty": "Insane Demon",
+    "lengthTime": "1m 35s",
+    "length": 95,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 17,
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": "11-29",
+            "hz": 240
+        }
+    ],
+    "practiceRecords": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "attempts": 41,
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
