@@ -1,0 +1,51 @@
+{
+    "id": 11402965,
+    "name": "Forest Temple",
+    "author": "Michigun",
+    "creators": [],
+    "verifier": "Michigun",
+    "verification": "https://youtu.be/ZKT1_Mq7hD0?si=eiYdt7GuT-vE2XnG",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "globalPosition": "",
+    "gddlTier": "13.95",
+    "difficulty": "Hard Demon",
+    "lengthTime": "1m 26s",
+    "length": 86,
+    "records": [
+        {
+            "user": "brumbal",
+            "link": "#",
+            "percent": 40,
+            "hz": 240
+        },
+        {
+            "user": "brumbal",
+            "link": "#",
+            "percent": "60-100",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 17,
+            "hz": 240
+        }
+    ],
+    "practiceRecords": [
+        {
+            "user": "brumbal",
+            "link": "#",
+            "attempts": 25,
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "#",
+            "attempts": 36,
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

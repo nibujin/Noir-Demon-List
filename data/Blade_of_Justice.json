@@ -1,0 +1,32 @@
+{
+    "id": 35448603,
+    "name": "Blade of Justice",
+    "author": "Manix648",
+    "creators": ["LazerBlitz","Panman","Manix648"],
+    "verifier": "RicoLP",
+    "verification": "https://youtu.be/6018CbEjA-4?si=MYWUtscmT5AZOjDz",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "globalPosition": "#755",
+    "gddlTier": "24.96",
+    "difficulty": "Extreme Demon",
+    "lengthTime": "2m 0s",
+    "length": 120,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 1,
+            "hz": 240
+        }
+    ],
+    "practiceRecords": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "attempts": 436,
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

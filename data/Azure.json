@@ -1,0 +1,44 @@
+{
+    "id": 123141568,
+    "name": "Azure",
+    "author": "eEddy",
+    "creators": [],
+    "verifier": "steeen",
+    "verification": "https://youtu.be/D2h-e7kD7t8?si=jwHWFvz49lTqCgga",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "globalPosition": "",
+    "gddlTier": "12.34",
+    "difficulty": "Hard Demon",
+    "lengthTime": "1m 0s",
+    "length": 60,
+    "records": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "percent": 23,
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "https://youtu.be/6SNEUJRujd0?si=tMgjJYwrmcmJQ_8C",
+            "percent": "43-55",
+            "hz": 240
+        },
+        {
+            "user": "Noir",
+            "link": "https://youtu.be/6SNEUJRujd0?si=tMgjJYwrmcmJQ_8C",
+            "percent": "50-100",
+            "hz": 240
+        }
+    ],
+    "practiceRecords": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "attempts": 58,
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

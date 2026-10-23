@@ -19,5 +19,14 @@
             "percent": 7,
             "hz": 240
         }
+    ],
+    "practiceRecords": [
+        {
+            "user": "Noir",
+            "link": "#",
+            "attempts": 99,
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
